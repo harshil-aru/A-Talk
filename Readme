@@ -2,14 +2,13 @@ This is a real time synchronous web meet app with full capabilities of-
 -Video call
 -Multiple people joining capability
 -Audio capability
--Chat freatures
+-Chat features
 -Real-time video play and pause
 -Multiple Chat rooms for multiple meeting at a same time
 -Real time different unique room creation and link sharing capabilities
 
 
-This Project is built on Node.Js and the backend and scrripts can be furthur used as a service to serve different platforms and work for android and iphone based react-native app is under construction.
-
+This Project is built on Node.Js and the back-end and scripts can be further used as a service to serve different platforms and work for android and iPhone based react-native app is under construction.
 This app is built using the given libraries and could be used to further modify and optimise this product-
 -Express.js(to implement the server and modify it to redirect the user to a particular unique id)
 -UUID.js (to generate a unique redirection room link for every new person who creates a room)
