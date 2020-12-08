@@ -1,0 +1,34 @@
+{
+  "name": "a-talk",
+  "version": "1.0.0",
+  "description": "A real-time syncronous chat app implemented using websockets using node.js express and socketio this is a free service which can be used by anyone according to usage and furthur modified. All Rights Reserved with Harshil Sagar Indian Institute of Technology- Dhanbad. Dedicated to always and forever AM. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "Chat",
+    "Web-app",
+    "react",
+    "node",
+    "express",
+    "mern",
+    "chat-app",
+    "syncronous",
+    "realtime"
+  ],
+  "author": "Harshil Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.1",
+    "socket.io": "^3.0.3",
+    "socketio": "^1.0.0",
+    "uuid": "^8.3.1"
+  }
+}
